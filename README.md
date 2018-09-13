@@ -1,2 +1,2 @@
 # Business project
-Business website project
+Demonstration of creating github repo. 
