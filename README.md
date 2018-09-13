@@ -1,2 +1,2 @@
-# Business-project
+# Business project
 Business website project
