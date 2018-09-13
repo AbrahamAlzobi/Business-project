@@ -1,2 +1,4 @@
 # Business project
-Demonstration of creating github repo. 
+Demonstration of creating GitHub repo.
+
+Example change 
